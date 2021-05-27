@@ -1,0 +1,8 @@
+pandas
+plotly
+networkx
+dash
+gunicorn
+seaborn
+fastcluster
+matplotlib
