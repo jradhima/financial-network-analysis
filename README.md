@@ -4,11 +4,11 @@ This repository contains the Jupyter notebooks, data, and Dash app (running on H
 
 ## Data
 
-The data directory contains the 13-F filings for 2017-2020. There is also a file containing all the years, but with only 10,000 sampled observations. 
+The data directory contains the 13-F filings for 2017-2020. There is also a file containing all the years, but with only 10,000 sampled observations.
 
 ## Notebooks   
 
-The Jupyter notebooks contain code to (1) create a list of the CIKs of interest, (2) download the data from the SEC site, (3), parse the filing information out of the downoaded files, and (4) run the analysis. There is an additional notebook that creates a Plotly figure illustrating the basic connectivty between the investiment managers.
+The Jupyter notebooks contain code to (1) create a list of the CIKs of interest, (2) download the data from the SEC site, (3), parse the filing information out of the downoaded files, and (4) run the analysis. There is an additional notebook that creates a Plotly figure illustrating the basic connectivity between the investment managers. The FullPipelineWithHelpers.ipynb file is the combined version of all these notebooks, and it uses the helpers.py file to run the full data pipeline and analysis.
 
 ## Dash App   
 
