@@ -6,3 +6,11 @@ gunicorn
 seaborn
 fastcluster
 matplotlib
+numpy
+time
+operator
+os
+beautifulsoup4
+sec_edgar_downloader
+datetime
+requests-html
